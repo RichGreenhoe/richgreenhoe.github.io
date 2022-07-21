@@ -1,20 +1,18 @@
-Markdown File Example
-=====================
+# Markdown File Example
 
-Contents
-========
+## Contents
 
-* [Overview](#overview)
-* [This is what you can do](#this-is-what-you-can-do)
-	* [Create Markdown files](#create-markdown-files)
-	* [Create Headers](#create-headers)
-	* [Table of Contents](#table-of-contents)
-	* [Paragraph and Text Format](#paragraph-and-text-format)
-	* [Create a Table](#create-a-table)
-	* [Create Links](#create-links)
-	* [Create Lists](#create-lists)
-	* [Add images](#add-images)
-	* [Add HTML images](#add-html-images)
+- [Overview](#overview)
+- [This is what you can do](#this-is-what-you-can-do)
+  - [Create Markdown files](#create-markdown-files)
+  - [Create Headers](#create-headers)
+  - [Table of Contents](#table-of-contents)
+  - [Paragraph and Text Format](#paragraph-and-text-format)
+  - [Create a Table](#create-a-table)
+  - [Create Links](#create-links)
+  - [Create Lists](#create-lists)
+  - [Add images](#add-images)
+  - [Add HTML images](#add-html-images)
 
 # Overview
 
