@@ -1,4 +1,4 @@
-# Markdown File Example
+# Markdown Example
 
 ## Contents
 
